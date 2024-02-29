@@ -1,6 +1,6 @@
 # Criando uma Blockchain em C++
 
-> Projeto de uma Blockchain em C++.
+> Status do Projeto: Não concluído ⏳
 
 ## Tecnologias e Referências
 
@@ -10,7 +10,7 @@
 
 ## Introdução
 
-O projeto tem como objetivo criar uma Blockchain em C++. A Blockchain é uma estrutura de dados que armazena um conjunto de blocos encadeados, ou seja, uma lista encadeada de blocos. Cada bloco contém um conjunto de transações e um hash que identifica o bloco. O hash do bloco anterior é armazenado no bloco atual, formando assim a cadeia de blocos. A Blockchain é uma estrutura de dados que é utilizada em criptomoedas, como o [Bitcoin](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt.pdf).
+O projeto tem como objetivo criar uma Blockchain em C++. Este projeto foi criado com base no artigo do [Bitcoin](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt.pdf). A blockchain (também conhecido como "cadeia de blocos") é uma tecnologia de registro distribuído que visa a descentralização como medida de segurança. São bases de registros e dados distribuídos e compartilhados, que têm a função de criar um índice global para todas as transações que ocorrem em um determinado mercado.
 
 ## Como instalar
 
