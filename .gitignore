@@ -1,0 +1,5 @@
+# Ignore IDE and editor files
+.vscode/
+
+# Ignore compiled binaries
+*.exe
