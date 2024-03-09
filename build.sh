@@ -1,4 +1,4 @@
-!/bin/hs
+#!/bin/sh
 
 set -xe
 
